@@ -3,6 +3,95 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-rc.0](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.7...nextjs-starter-typescript@1.0.0-rc.0) (2021-04-07)
+
+**Note:** Version bump only for package nextjs-starter-typescript
+
+
+
+
+
+# [1.0.0-alpha.7](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.6...nextjs-starter-typescript@1.0.0-alpha.7) (2021-04-07)
+
+
+### Features
+
+* update nextjs starters ([6fed57b](https://github.com/reflexjs/reflexjs/commit/6fed57bb7b0a9c430c93b89cf35fe3a097832c2c))
+
+
+
+
+
+# [1.0.0-alpha.6](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.5...nextjs-starter-typescript@1.0.0-alpha.6) (2021-04-06)
+
+**Note:** Version bump only for package nextjs-starter-typescript
+
+
+
+
+
+# [1.0.0-alpha.5](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.4...nextjs-starter-typescript@1.0.0-alpha.5) (2021-04-05)
+
+**Note:** Version bump only for package nextjs-starter-typescript
+
+
+
+
+
+# [1.0.0-alpha.4](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.3...nextjs-starter-typescript@1.0.0-alpha.4) (2021-04-04)
+
+**Note:** Version bump only for package nextjs-starter-typescript
+
+
+
+
+
+# [1.0.0-alpha.3](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.2...nextjs-starter-typescript@1.0.0-alpha.3) (2021-04-02)
+
+**Note:** Version bump only for package nextjs-starter-typescript
+
+
+
+
+
+# [1.0.0-alpha.2](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.1...nextjs-starter-typescript@1.0.0-alpha.2) (2021-04-01)
+
+
+### Bug Fixes
+
+* **reflexjs:** update initialColorModeName ([5559136](https://github.com/reflexjs/reflexjs/commit/55591365b37996dbb862a1d2a6a87241e628765d))
+
+
+### Features
+
+* **reflexjs:** set initialColorModeName to light in base theme ([0dbd53e](https://github.com/reflexjs/reflexjs/commit/0dbd53e790194dba9b36235aa262e6f386ac9d0d))
+
+
+
+
+
+# [1.0.0-alpha.1](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@1.0.0-alpha.0...nextjs-starter-typescript@1.0.0-alpha.1) (2021-04-01)
+
+
+### Features
+
+* update starters ([1fef6cb](https://github.com/reflexjs/reflexjs/commit/1fef6cb77440ca01cadef5e9b881ed46a0abac53))
+
+
+
+
+
+# [1.0.0-alpha.0](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@0.3.1...nextjs-starter-typescript@1.0.0-alpha.0) (2021-04-01)
+
+
+### Features
+
+* update to react 17 ([cb08ae7](https://github.com/reflexjs/reflexjs/commit/cb08ae73f19d70ce8c90b86139fb9dc6e01cf812))
+
+
+
+
+
 ## [0.3.1](https://github.com/reflexjs/reflexjs/compare/nextjs-starter-typescript@0.3.0...nextjs-starter-typescript@0.3.1) (2021-03-30)
 
 
